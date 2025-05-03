@@ -1,4 +1,4 @@
-# 🔐 Crypto Demo App - Alice & Bob Secure Messaging
+# 🔐 postquantum-secure-messaging-demo-app -- Alice & Bob Secure Messaging
 
 This Python GUI application demonstrates **Post-Quantum Cryptography concepts** using:
 - **Elliptic Curve Cryptography (ECC)** for key exchange
